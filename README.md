@@ -1,6 +1,6 @@
 # GithubAPI
 
-### Description of the code:- Lists the public repository names of my user account.
+### Description of the code:- Lists the public repository names of my user account using Github API.
 
 The code is in python and the file is a .ipynb file, so this file should be run in Jupyter notebook. Installing softwares like Anaconda or pycharm should allow you to run the code.
 
